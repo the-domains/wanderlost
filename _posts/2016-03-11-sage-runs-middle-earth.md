@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-11T03:05:27.034Z'
+datePublished: '2016-03-11T03:10:00.545Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Sage Runs Middle Earth
-dateModified: '2016-03-11T03:02:05.665Z'
+dateModified: '2016-03-11T03:09:47.723Z'
 sourcePath: _posts/2016-03-11-sage-runs-middle-earth.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
