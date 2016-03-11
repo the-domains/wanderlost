@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-11T05:18:36.309Z'
+datePublished: '2016-03-11T05:22:26.577Z'
 publisher:
   name: ''
   domain: ''
 title: Although off the Grid
-dateModified: '2016-03-11T05:17:38.503Z'
+dateModified: '2016-03-11T05:22:18.788Z'
 starred: true
 sourcePath: _posts/2016-03-11-although-off-the-grid.md
 published: true
