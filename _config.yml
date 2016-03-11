@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 0.4637437
+  brandStrength: 0.5708263
+  brandColors:
+    - '#FEFEFE'
+    - '#303030'
+    - '#5D88BD'
+    - '#BEBCBD'
+    - '#0080DF'
+  rhythmicContrast: 1
+typography_spectrum: 0.2908938
+name: Wanderlost
