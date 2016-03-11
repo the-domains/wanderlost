@@ -1,13 +1,13 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-11T04:32:34.985Z'
+datePublished: '2016-03-11T05:07:40.753Z'
 publisher:
   name: ''
   domain: ''
 title: Sage and I are far from lost
-dateModified: '2016-03-11T04:32:20.764Z'
-starred: true
+dateModified: '2016-03-11T05:07:30.857Z'
+starred: false
 sourcePath: _posts/2016-03-11-sage-and-i-are-far-from-lost.md
 published: true
 inFeed: true
