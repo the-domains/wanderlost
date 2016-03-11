@@ -11,16 +11,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.2588533
+  saturation: 0.7596965
   brandStrength: 1
-  lightness: 1
+  lightness: 0.3625633
   brandColors:
     - '#FEFEFE'
     - '#303030'
     - '#5D88BD'
     - '#BEBCBD'
     - '#0080DF'
-  rhythmicContrast: 0.8549747
+  rhythmicContrast: 0.4333895
 typography_spectrum: 0.2908938
-layout_spectrum: 0.7883642
+layout_spectrum: 1
 name: Wanderlost
