@@ -1,13 +1,13 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-11T09:02:42.295Z'
+datePublished: '2016-03-11T09:17:15.322Z'
 publisher:
   name: ''
   domain: ''
 title: It was necessary to go off the grid to find that which was lost
-dateModified: '2016-03-11T09:02:15.730Z'
-starred: true
+dateModified: '2016-03-11T09:17:05.887Z'
+starred: false
 sourcePath: _posts/2016-03-11-it-was-necessary-to-go-off-the-grid-to-find-that-which-was-l.md
 published: true
 inFeed: true
