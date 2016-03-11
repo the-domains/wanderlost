@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-11T03:05:28.141Z'
+datePublished: '2016-03-11T03:09:12.077Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: North Table Top Ecological Preserve
-dateModified: '2016-03-11T02:59:37.885Z'
+dateModified: '2016-03-11T03:08:06.599Z'
 sourcePath: _posts/2016-03-11-north-table-top-ecological-preserve.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
@@ -18,3 +19,4 @@ _type: Article
 
 ---
 # North Table Top Ecological Preserve
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeb6942b-235e-40aa-9b6e-9076ef0b2a9b.png)
