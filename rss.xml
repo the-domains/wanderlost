@@ -4,7 +4,7 @@
         <description><![CDATA[WANDERLOST]]></description>
         <link>https://thegrid.ai/wanderlost/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 07:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 07:42:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wanderlost/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,13 +61,6 @@
             <link>https://thegrid.ai/wanderlost/it-was-necessary-to-go-off-the-grid-to-find-that-which-was-l/index.html</link>
             <guid isPermaLink="false">f29be49a-5225-442c-adff-6a07f824caa3</guid>
             <pubDate>Fri, 11 Mar 2016 06:33:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sage and I are far from lost]]></title>
-            <description><![CDATA[<article><h1>Sage and I are far from lost</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7401a44016fbdf90416a314cbb413250e8621a35.png"></article>]]></description>
-            <link>https://thegrid.ai/wanderlost/sage-and-i-are-far-from-lost/index.html</link>
-            <guid isPermaLink="false">878cdd5a-22c4-4d27-a661-740169a569e9</guid>
-            <pubDate>Fri, 11 Mar 2016 05:47:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
