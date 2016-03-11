@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-11T07:53:31.373Z'
+datePublished: '2016-03-11T08:29:26.176Z'
 publisher:
   name: ''
   domain: ''
 title: All we have to decide
-dateModified: '2016-03-11T07:48:18.141Z'
+dateModified: '2016-03-11T08:27:58.035Z'
 starred: true
 sourcePath: _posts/2016-03-11-all-we-have-to-decide.md
 published: true
