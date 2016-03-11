@@ -1,13 +1,13 @@
 ---
 description: Is what to do with the time that is given to us.
 author: []
-datePublished: '2016-03-11T07:48:47.650Z'
+datePublished: '2016-03-11T07:49:50.625Z'
 publisher:
   name: ''
   domain: ''
 title: 'Is what to do with the time that is given to us.   '
-dateModified: '2016-03-11T07:48:38.249Z'
-starred: true
+dateModified: '2016-03-11T07:49:37.421Z'
+starred: false
 sourcePath: _posts/2016-03-11-is-what-to-do-with-the-time-that-is-given-to-us.md
 published: true
 inFeed: true
