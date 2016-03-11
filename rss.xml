@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wanderlost]]></title>
+        <description><![CDATA[Wanderlost]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 03:05:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sage Runs Middle Earth]]></title>
+            <description><![CDATA[<h1>Sage Runs Middle Earth</h1>]]></description>
+            <link>undefinedsage-runs-middle-earth/index.html</link>
+            <guid isPermaLink="false">5b10b1db-9802-48f4-a559-e6445674e5e5</guid>
+            <pubDate>Fri, 11 Mar 2016 03:05:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
