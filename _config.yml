@@ -12,8 +12,8 @@ collections:
       path: '/:title/'
 typography_spectrum: 0.3665414
 color:
-  saturation: 0.9197995
-  brandStrength: 0.6578947
+  saturation: 0.7005013
+  brandStrength: 0.7619048
   lightness: 0.7938597
   brandColors:
     - '#1E2915'
