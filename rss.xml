@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wanderlost]]></title>
         <description><![CDATA[Wanderlost]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wanderlost/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 03:05:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 03:05:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wanderlost/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[North Table Top Ecological Preserve]]></title>
+            <description><![CDATA[<h1>North Table Top Ecological Preserve</h1>]]></description>
+            <link>https://thegrid.ai/wanderlost/north-table-top-ecological-preserve/index.html</link>
+            <guid isPermaLink="false">2e67dd58-373a-4ac4-aa35-396f86e40fb5</guid>
+            <pubDate>Fri, 11 Mar 2016 03:05:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sage Runs Middle Earth]]></title>
             <description><![CDATA[<h1>Sage Runs Middle Earth</h1>]]></description>
-            <link>undefinedsage-runs-middle-earth/index.html</link>
+            <link>https://thegrid.ai/wanderlost/sage-runs-middle-earth/index.html</link>
             <guid isPermaLink="false">5b10b1db-9802-48f4-a559-e6445674e5e5</guid>
             <pubDate>Fri, 11 Mar 2016 03:05:27 GMT</pubDate>
         </item>
