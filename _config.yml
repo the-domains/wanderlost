@@ -13,14 +13,14 @@ collections:
 color:
   saturation: 0.7596965
   brandStrength: 1
-  rhythmicContrast: 0.4333895
+  lightness: 0.9755639
   brandColors:
     - '#201F26'
     - '#C5C7CF'
     - '#020202'
     - '#534C42'
     - '#5C758F'
-  lightness: 0.3625633
-typography_spectrum: 0.2908938
+  rhythmicContrast: 0.9561403
+typography_spectrum: 0.6359649
 layout_spectrum: 0
 name: Wanderlost
