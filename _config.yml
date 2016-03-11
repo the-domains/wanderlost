@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2908938
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.2588533
   brandStrength: 1
-  rhythmicContrast: 0.8549747
+  lightness: 1
   brandColors:
     - '#FEFEFE'
     - '#303030'
     - '#5D88BD'
     - '#BEBCBD'
     - '#0080DF'
-  lightness: 0.4637437
-layout_spectrum: 0
+  rhythmicContrast: 0.8549747
+typography_spectrum: 0.2908938
+layout_spectrum: 0.7883642
 name: Wanderlost
