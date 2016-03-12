@@ -4,7 +4,7 @@
         <description><![CDATA[WANDERLOST]]></description>
         <link>https://thegrid.ai/wanderlost/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 09:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 09:41:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wanderlost/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,20 +33,6 @@
             <link>https://thegrid.ai/wanderlost/5325db22-01c2-48d8-82a5-b6f4323c4850/index.html</link>
             <guid isPermaLink="false">5325db22-01c2-48d8-82a5-b6f4323c4850</guid>
             <pubDate>Sat, 12 Mar 2016 09:40:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Off The Grid]]></title>
-            <description><![CDATA[<article><h1>Off The Grid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c70aca5249682102318675f2eafc3d0ac69def2b.png"></article>]]></description>
-            <link>https://thegrid.ai/wanderlost/off-the-grid/index.html</link>
-            <guid isPermaLink="false">98f343d3-4485-4245-836f-92517217aa93</guid>
-            <pubDate>Sat, 12 Mar 2016 03:56:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wander]]></title>
-            <description><![CDATA[<article><h1>Wander</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59f6bb7a97ae3d8c06dcee27aeb2c160300e09f5.png"></article>]]></description>
-            <link>https://thegrid.ai/wanderlost/wander/index.html</link>
-            <guid isPermaLink="false">816d03f4-e4b1-4c8c-8478-ce10a9a021df</guid>
-            <pubDate>Sat, 12 Mar 2016 03:56:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
