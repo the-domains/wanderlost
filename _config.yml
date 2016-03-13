@@ -12,15 +12,15 @@ collections:
       number: 10
 typography_spectrum: 1
 color:
-  saturation: 0.8246205
-  brandStrength: 0.8060708
-  lightness: 0.5244519
+  saturation: 0.9283305
+  brandStrength: 0.8397976
+  lightness: 0.6812816
   brandColors:
     - '#0C447E'
     - '#161616'
     - '#4C666D'
     - '#7F9292'
     - '#BEB2A3'
-  rhythmicContrast: 0.3448566
+  rhythmicContrast: 0.5084317
 layout_spectrum: 0
 name: WANDERLOST
