@@ -12,8 +12,8 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.8136201
-  brandStrength: 0.8853046
-  lightness: 0.9677419
+  brandStrength: 1
+  lightness: 0.8422939
   brandColors:
     - '#0C447E'
     - '#161616'
