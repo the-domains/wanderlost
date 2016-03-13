@@ -16,11 +16,11 @@ color:
   brandStrength: 0.9265233
   lightness: 0.6021506
   brandColors:
-    - '#281F0C'
-    - '#655330'
-    - '#8F784C'
-    - '#B29B6F'
-    - '#FCFCFA'
+    - '#171E1E'
+    - '#9ABCD8'
+    - '#FFFFFF'
+    - '#6588A3'
+    - '#C6A391'
   rhythmicContrast: 0.2258064
 layout_spectrum: 0.1326165
 name: WANDERLOST
