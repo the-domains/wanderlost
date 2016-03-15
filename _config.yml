@@ -12,7 +12,7 @@ collections:
       path: '/:title/'
 typography_spectrum: 0.5286738
 color:
-  saturation: 0.8727599
+  saturation: 1
   brandStrength: 0.8763441
   lightness: 0.5179211
   brandColors:
@@ -22,5 +22,5 @@ color:
     - '#CFD7D8'
     - '#A35C27'
   rhythmicContrast: 0.1845878
-layout_spectrum: 0.5663083
+layout_spectrum: 0.2383513
 name: WANDERLOST
