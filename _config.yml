@@ -12,9 +12,9 @@ collections:
       path: '/:title/'
 typography_spectrum: 0.5394265
 color:
-  saturation: 0.8548387
+  saturation: 0.6917562
   brandStrength: 0.9247312
-  lightness: 0.6003584
+  lightness: 0.4820789
   brandColors:
     - '#88CEFD'
     - '#171616'
