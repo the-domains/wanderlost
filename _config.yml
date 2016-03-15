@@ -10,11 +10,10 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5286738
 color:
   saturation: 0.7078853
   brandStrength: 0.8763441
-  lightness: 0.7222222
+  lightness: 0.3405018
   brandColors:
     - '#88CEFD'
     - '#171616'
@@ -22,5 +21,6 @@ color:
     - '#CFD7D8'
     - '#A35C27'
   rhythmicContrast: 0.1845878
+typography_spectrum: 0.5286738
 layout_spectrum: 0.2383513
 name: WANDERLOST
