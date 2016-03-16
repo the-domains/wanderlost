@@ -10,8 +10,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.2670251
 color:
-  saturation: 0.8558179
+  saturation: 0.5775717
   brandStrength: 0.8827993
   lightness: 0.07335582
   brandColors:
@@ -20,7 +21,6 @@ color:
     - '#CFD7D8'
     - '#88CEFD'
     - '#A35C27'
-  rhythmicContrast: 0.8608769
-typography_spectrum: 0.2670251
+  rhythmicContrast: 0.9080944
 layout_spectrum: 0.3035413
 name: WANDERLOST
