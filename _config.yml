@@ -4,14 +4,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.2670251
 color:
-  saturation: 0.9086022
+  saturation: 0.9354839
   brandStrength: 1
   lightness: 0.1362007
   brandColors:
@@ -21,6 +22,5 @@ color:
     - '#88CEFD'
     - '#A35C27'
   rhythmicContrast: 0.7598566
-typography_spectrum: 0.2670251
 layout_spectrum: 0.2132616
 name: WANDERLOST
