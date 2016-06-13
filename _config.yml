@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Only he that has traveled the road knows where the holes are deep
+title: Those who traveled the road know where the holes are deep
 cta:
   domain: null
   bucket: null
