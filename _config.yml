@@ -14,9 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: >-
-  Wander fiercely; Heart & eyes wide with wonder;  Once Lost, be reassured you
-  are where you need to be.
+title: Those that Wander are not lost
 cta:
   domain: null
   bucket: null
