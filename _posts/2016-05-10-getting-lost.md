@@ -1,19 +1,23 @@
 ---
-author: []
-title: Getting Lost
-description: 'Sometimes you have to get lost in order to find yourself again and reclaim your Wonder.. It’s never too late in life to start over and do what makes you happy! '
-dateModified: '2016-05-10T18:50:40.640Z'
-datePublished: '2016-05-10T18:50:59.383Z'
-starred: false
-sourcePath: _posts/2016-05-10-getting-lost.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+inLanguage: null
+keywords: []
+description: >-
+  Sometimes it's necessary to get lost in order to find yourself and reclaim
+  your wonder.. 
+datePublished: '2016-06-13T09:26:56.081Z'
+dateModified: '2016-06-13T09:20:16.751Z'
+author: []
+title: ''
+sourcePath: _posts/2016-05-10-getting-lost.md
+authors: []
+publisher: null
+starred: false
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6765b8d-acf6-4a70-ae45-89633c498da2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1485cc7b-2661-438d-978a-01c9af5e3006.jpg)
 
-Sometimes you have to get lost in order to find yourself again and reclaim your Wonder.. It's never too late in life to start over and do [what makes you happy!][0]
-
-[0]: http://qz.com/670483/dont-be-anxious-about-the-arc-of-your-future-what-i-wish-id-known-at-30/ "what makes you happy!"
+Sometimes it's necessary to get lost in order to find yourself and reclaim your wonder..
