@@ -1,3 +1,7 @@
+name: WANDERLOST
+favicon: null
+layout_spectrum: 0.1618887
+typography_spectrum: 0.05059022
 collections:
   - index:
       path: /
@@ -10,17 +14,30 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: >-
+  Wander fiercely; heart & eyes wide with wonder;  If Lost, be reassured you are
+  where you need to be.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7782462
-  brandStrength: 0.9426523
-  lightness: 0.3785835
   brandColors:
     - '#000000'
     - '#004E87'
     - '#843701'
     - '#9CAAAD'
     - '#5D5D5A'
+  brandStrength: 0.9426523
+  lightness: 0.3785835
+  saturation: 0.7782462
   rhythmicContrast: 0.6913996
-typography_spectrum: 0.05059022
-layout_spectrum: 0.1618887
-name: WANDERLOST
+purpose: []
