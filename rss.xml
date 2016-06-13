@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Wander fiercely; Heart & eyes wide with wonder;  Once Lost, be reassured you are where you need to be.]]></title>
-        <description><![CDATA[Wander fiercely; Heart & eyes wide with wonder;  Once Lost, be reassured you are where you need to be.]]></description>
+        <title><![CDATA[Those that Wander are not lost]]></title>
+        <description><![CDATA[Those that Wander are not lost]]></description>
         <link>https://thegrid.ai/wanderlost/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 10:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 10:12:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wanderlost/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -22,10 +22,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d314f4b-9fc7-4bca-90bd-121be23b6708.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d314f4b-9fc7-4bca-90bd-121be23b6708.png</link>
+            <guid isPermaLink="false">bb62d104-632a-4879-927c-a29a3cdc85cb</guid>
+            <pubDate>Mon, 13 Jun 2016 10:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/605c83cd-f964-4673-b2d0-760f4f29d1f8.png">]]></description>
-            <link>https://thegrid.ai/wanderlost/cfb839c3-78fc-485b-87cc-6242ad9da584/index.html</link>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/605c83cd-f964-4673-b2d0-760f4f29d1f8.png</link>
             <guid isPermaLink="false">cfb839c3-78fc-485b-87cc-6242ad9da584</guid>
-            <pubDate>Wed, 16 Mar 2016 22:17:18 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2016 10:10:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/wanderlost/904597df-e018-45e0-9104-d9b646ac52a1/index.html</link>
             <guid isPermaLink="false">904597df-e018-45e0-9104-d9b646ac52a1</guid>
             <pubDate>Wed, 16 Mar 2016 21:58:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca3f371a-f45a-4820-9568-2f71ac22a3df.png">]]></description>
-            <link>https://thegrid.ai/wanderlost/cd56f982-8323-4703-a95f-25fbb0418ad3/index.html</link>
-            <guid isPermaLink="false">cd56f982-8323-4703-a95f-25fbb0418ad3</guid>
-            <pubDate>Wed, 16 Mar 2016 21:58:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
