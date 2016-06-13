@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Those that Wander are not lost
+title: We Wander to get Lost
 cta:
   domain: null
   bucket: null
