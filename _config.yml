@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: We Wander to get Lost
+title: Only he that has traveled the road knows where the holes are deep
 cta:
   domain: null
   bucket: null
