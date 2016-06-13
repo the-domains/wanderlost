@@ -4,7 +4,7 @@
         <description><![CDATA[We Wander to get Lost]]></description>
         <link>https://thegrid.ai/wanderlost/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 14:55:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 14:55:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wanderlost/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/wanderlost/f26b456f-1d4d-4e6f-84ba-347e5c7b999d/index.html</link>
             <guid isPermaLink="false">f26b456f-1d4d-4e6f-84ba-347e5c7b999d</guid>
             <pubDate>Thu, 17 Mar 2016 10:32:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I was trying to daydream,</p>]]></description>
+            <link>https://thegrid.ai/wanderlost/i-was-trying-to-daydream/index.html</link>
+            <guid isPermaLink="false">3cd6eb30-8ace-4d4c-b38a-0ecf8d2237cb</guid>
+            <pubDate>Mon, 13 Jun 2016 14:55:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maintain Balance]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c1cfdff-8f8c-446a-9330-d0865859439b.png</link>
             <guid isPermaLink="false">37ecacde-d4f6-495d-9676-c209bb744762</guid>
             <pubDate>Mon, 13 Jun 2016 10:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b1a4a56-9122-4be8-a85f-9f5ecc6bb8e8.png">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b1a4a56-9122-4be8-a85f-9f5ecc6bb8e8.png</link>
-            <guid isPermaLink="false">373953c3-a76a-49d7-93b3-b50c7d4f4746</guid>
-            <pubDate>Mon, 13 Jun 2016 10:08:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
