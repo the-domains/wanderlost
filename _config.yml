@@ -1,7 +1,7 @@
 name: WANDERLOST
 favicon: null
 layout_spectrum: 0.10456
-typography_spectrum: 0.26799
+typography_spectrum: 0.10069
 collections:
   - index:
       path: /
