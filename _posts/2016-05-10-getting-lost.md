@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'My best buddy, SAGE'
-datePublished: '2016-06-14T04:01:14.544Z'
-dateModified: '2016-06-14T04:01:10.995Z'
+description: ''
+datePublished: '2016-06-14T04:46:10.913Z'
+dateModified: '2016-06-14T04:41:56.979Z'
 author:
   - name: ''
     url: ''
@@ -19,5 +19,4 @@ url: get-lost/index.html
 _type: Article
 
 ---
-My best buddy, SAGE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25e21f22-7bb3-48dd-84bd-b5b0a78ed31d.jpg)
