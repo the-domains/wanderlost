@@ -14,7 +14,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: One who's traveled the roads knows where holes are deepest
+title: >-
+  We travel, some of us forever, to seek other states, other lives, other souls.
+  | 
 cta:
   domain: null
   bucket: null
