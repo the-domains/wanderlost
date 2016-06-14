@@ -15,8 +15,8 @@ collections:
       format: rss
       number: 10
 title: >-
-  We travel, some of us forever, to seek other states, other lives, other souls.
-  | 
+  We travel, some of us forever, to seek other states, other lives, other
+  souls. 
 cta:
   domain: null
   bucket: null
