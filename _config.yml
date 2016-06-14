@@ -38,6 +38,6 @@ color:
     - '#cfbcaa'
   brandStrength: 1
   lightness: 0.375
-  saturation: 0.25
+  saturation: 0.0625
   rhythmicContrast: 0.75
 purpose: []
