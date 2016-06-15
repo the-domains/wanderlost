@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Lost solvagant by nature, wandering deeper into abyss to find himself'
+title: null
 cta:
   domain: null
   bucket: null
