@@ -6,9 +6,9 @@ inLanguage: null
 keywords: []
 description: >-
   Lost solvagant in nature, he wanders into an abyss so dark, no alternative
-  paths are visible
-datePublished: '2016-06-15T18:53:38.621Z'
-dateModified: '2016-06-15T18:53:13.213Z'
+  paths are visible.
+datePublished: '2016-06-15T20:20:35.925Z'
+dateModified: '2016-06-15T18:56:21.057Z'
 title: Wanderlost
 author:
   - name: ''
@@ -21,4 +21,4 @@ url: wanderlost/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67fe1ccb-8b70-469b-a1bd-6548e8fa049f.jpg)
+![Lost solvagant in nature, he wanders into an abyss so dark, no alternative paths are visible.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67fe1ccb-8b70-469b-a1bd-6548e8fa049f.jpg)
