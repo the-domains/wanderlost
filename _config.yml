@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'A Solvagant by Nature '
+title: 'Solvagant by Nature '
 cta:
   domain: null
   bucket: null
