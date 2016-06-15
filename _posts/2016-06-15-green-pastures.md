@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Test3
-datePublished: '2016-06-15T21:33:23.143Z'
-dateModified: '2016-06-15T21:31:18.757Z'
+datePublished: '2016-06-15T21:34:08.096Z'
+dateModified: '2016-06-15T21:33:48.803Z'
 title: Test
 author:
   - name: Brad miller
