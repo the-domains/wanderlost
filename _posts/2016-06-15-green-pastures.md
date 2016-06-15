@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Green Pastures by Brad Miller
-datePublished: '2016-06-15T14:56:27.529Z'
-dateModified: '2016-06-15T14:46:41.770Z'
+datePublished: '2016-06-15T14:57:02.196Z'
+dateModified: '2016-06-15T14:56:42.445Z'
 title: Green Pastures
 author:
   - name: ''
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-06-15-green-pastures.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: green-pastures/index.html
 _type: Article
 
