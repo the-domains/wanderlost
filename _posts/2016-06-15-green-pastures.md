@@ -4,10 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-15T18:53:13.039Z'
-dateModified: '2016-06-15T17:27:59.011Z'
-title: ''
+description: >-
+  Lost solvagant in nature, he wanders into an abyss so dark, no alternative
+  paths are visible
+datePublished: '2016-06-15T18:53:38.621Z'
+dateModified: '2016-06-15T18:53:13.213Z'
+title: Wanderlost
 author:
   - name: ''
     url: ''
