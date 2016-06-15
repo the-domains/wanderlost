@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: ' Solvagant by nature, I Wander alone.   With Nothing behind me, everything ahead of me, as is ever so on the road.'
+title: ' Solvagant by nature, I wander alone.   With Nothing behind me, everything ahead of me, as is ever so on the road.'
 cta:
   domain: null
   bucket: null
