@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Green Pastures by Brad Miller
-datePublished: '2016-06-15T14:57:02.196Z'
-dateModified: '2016-06-15T14:56:42.445Z'
+datePublished: '2016-06-15T14:57:53.885Z'
+dateModified: '2016-06-15T14:57:45.754Z'
 title: Green Pastures
 author:
   - name: ''
