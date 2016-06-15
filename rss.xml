@@ -4,15 +4,8 @@
         <description><![CDATA[We travel, some of us forever, to seek other states, other lives, other souls. ]]></description>
         <link>https://thegrid.ai/wanderlost/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 01:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 01:42:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wanderlost/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[There is music if you listen]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b950e83f-addf-4fe4-880b-3fcac8c757bd.png">]]></description>
-            <link>https://thegrid.ai/wanderlost/there-is-music-if-you-listen/index.html</link>
-            <guid isPermaLink="false">657fb6be-59b2-4812-b4f6-0d73f0b387ed</guid>
-            <pubDate>Wed, 15 Jun 2016 01:40:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fe5011737262beebfc86368dbfc666fceefdec4.png" alt="" title="">]]></description>
@@ -26,6 +19,13 @@
             <link>https://thegrid.ai/wanderlost/the-stillness/index.html</link>
             <guid isPermaLink="false">6ef459b2-a388-4589-9ed2-d1e411df7cf4</guid>
             <pubDate>Tue, 14 Jun 2016 19:50:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There is music if you listen]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b950e83f-addf-4fe4-880b-3fcac8c757bd.png">]]></description>
+            <link>https://thegrid.ai/wanderlost/there-is-music-if-you-listen/index.html</link>
+            <guid isPermaLink="false">657fb6be-59b2-4812-b4f6-0d73f0b387ed</guid>
+            <pubDate>Wed, 15 Jun 2016 01:42:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lost is where Im Found]]></title>
