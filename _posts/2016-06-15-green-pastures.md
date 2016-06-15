@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Lost solvagant in nature, he wanders into an abyss so dark, no alternative
   paths are visible.
-datePublished: '2016-06-15T20:33:45.698Z'
-dateModified: '2016-06-15T20:33:24.248Z'
+datePublished: '2016-06-15T20:35:07.793Z'
+dateModified: '2016-06-15T20:33:53.017Z'
 title: Wanderlost
 author:
   - name: ''
@@ -16,7 +16,7 @@ author:
 sourcePath: _posts/2016-06-15-green-pastures.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: wanderlost/index.html
 _type: Article
 
