@@ -9,8 +9,8 @@ description: >-
   fear pervade his being.  A shame worse than death awaits him by turning back. 
   With a heavy heart, he steps slowly into the abyss, not knowing how long he
   would remain...
-datePublished: '2016-06-15T20:38:13.779Z'
-dateModified: '2016-06-15T20:37:57.849Z'
+datePublished: '2016-06-15T20:40:15.831Z'
+dateModified: '2016-06-15T20:38:21.400Z'
 title: Wanderlost
 author:
   - name: ''
