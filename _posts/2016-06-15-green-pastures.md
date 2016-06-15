@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  Lost solvagant in nature, he wanders into an abyss so dark, no alternative
-  paths are visible.
-datePublished: '2016-06-15T20:35:07.793Z'
-dateModified: '2016-06-15T20:33:53.017Z'
+  Solvagant by nature, the path under foot terrifies his senses, lonlyness and
+  fear pervade his being.  A shame worse than death awaits him by turning back. 
+  With a heavy heart, he steps slowly into the abyss, not knowing how long he
+  would remain...
+datePublished: '2016-06-15T20:35:31.369Z'
+dateModified: '2016-06-15T20:35:24.766Z'
 title: Wanderlost
 author:
   - name: ''
@@ -16,7 +18,7 @@ author:
 sourcePath: _posts/2016-06-15-green-pastures.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: wanderlost/index.html
 _type: Article
 
