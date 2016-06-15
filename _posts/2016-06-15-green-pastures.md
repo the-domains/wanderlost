@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Test3
-datePublished: '2016-06-15T21:31:10.156Z'
-dateModified: '2016-06-15T21:30:47.855Z'
+datePublished: '2016-06-15T21:33:23.143Z'
+dateModified: '2016-06-15T21:31:18.757Z'
 title: Test
 author:
   - name: Brad miller
