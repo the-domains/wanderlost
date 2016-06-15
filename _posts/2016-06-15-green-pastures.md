@@ -10,11 +10,11 @@ description: >-
   familiar feeling of loss, jealousy, abandonment, lonlyness, fear, depression,
   shame, and anger would detonate simultaneously which could only be explained
   as, "Oh, I'm just feeling some anxiety right now."
-datePublished: '2016-06-15T22:07:42.644Z'
-dateModified: '2016-06-15T22:03:44.962Z'
-title: Wanderlost
+datePublished: '2016-06-15T22:09:17.359Z'
+dateModified: '2016-06-15T22:08:29.503Z'
+title: First Steps
 author:
-  - name: ''
+  - name: Brad Miller
     url: ''
 sourcePath: _posts/2016-06-15-green-pastures.md
 authors: []
