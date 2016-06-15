@@ -5,12 +5,10 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  Solvagant by nature, the path under foot terrifies his senses, lonlyness and
-  fear pervade his being.  A shame worse than death awaits him by turning back. 
-  With a heavy heart, he steps slowly into the abyss, not knowing how long he
-  would remain...
-datePublished: '2016-06-15T20:40:15.831Z'
-dateModified: '2016-06-15T20:38:21.400Z'
+  Lost solvagant in nature, he wanders into an abyss so dark, no alternative
+  paths are visible.
+datePublished: '2016-06-15T20:40:59.843Z'
+dateModified: '2016-06-15T20:40:56.083Z'
 title: Wanderlost
 author:
   - name: ''
@@ -23,4 +21,4 @@ url: wanderlost/index.html
 _type: Article
 
 ---
-![Solvagant by nature, the path under foot terrifies his senses, lonlyness and fear pervade his being.  A shame worse than death awaits him by turning back.  With a heavy heart, he steps slowly into the abyss, not knowing how long he would remain...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67fe1ccb-8b70-469b-a1bd-6548e8fa049f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67fe1ccb-8b70-469b-a1bd-6548e8fa049f.jpg)
