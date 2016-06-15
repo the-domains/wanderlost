@@ -14,9 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: >-
-  We travel, some of us forever, to seek other states, other lives, other
-  souls. 
+title: 'We travel, some forever; to seek other states, other lives, other soulsi'
 cta:
   domain: null
   bucket: null
