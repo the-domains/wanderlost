@@ -10,8 +10,8 @@ description: >-
   familiar feeling of loss, jealousy, abandonment, lonlyness, fear, depression,
   shame, and anger would detonate simultaneously which could only be explained
   as, "Oh, I'm just feeling some anxiety right now."
-datePublished: '2016-06-15T22:00:51.642Z'
-dateModified: '2016-06-15T22:00:32.081Z'
+datePublished: '2016-06-15T22:03:37.590Z'
+dateModified: '2016-06-15T22:01:16.050Z'
 title: Wanderlost
 author:
   - name: ''
