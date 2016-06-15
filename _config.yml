@@ -1,4 +1,4 @@
-name: WANDERLOST
+name: 'Wanderlost Soloivagant '
 favicon: null
 layout_spectrum: 0.11359
 typography_spectrum: 0.27748
@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: ' I wander alone  to recapture lost essences of youth and pure joy'
+title: ' A solvagant by nature, I wander alone to recapture lost magic that came so easy as a child'
 cta:
   domain: null
   bucket: null
