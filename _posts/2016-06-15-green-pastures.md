@@ -5,30 +5,22 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  The familiar path under foot sent shocks from the toes, up through the limbs
-  and spine and burst like fireworks throughout the skull and neck; only to
-  repeat the proccess, downward throughout the electrical nervous system until
-  the next step taken; a process repeated while the unexcpected news took hold
-  as a possible reality. Old familiar feeling of loss, jealousy, abandonment,
-  lonlyness, fear, depression, shame, and anger would arrive simultaneously and
-  hurt without remorse or allow for any sanctuary from what can only be
-  described as pure panic. When my now ex-wife asked what's wrong, I calmy
-  said"Oh, I'ts just some anxiety right now, it will pass.". That anxiety and
-  emotional torture persisted for months apon months straight and has only just
+  When my, now, ex-wife asked what was wrong, I calmy said, "Oh, I'ts just some
+  anxiety right now, it should pass." That anxiety and emotional torture
+  persisted for months apon months, Fairly consistently, and has only just
   recently subsided, 7 months after the fact. I'd like to write about this
-  experience that turned out being a culmination of events I now refer to as
-  "the perfect storm." rather that giving a congruent timeline of events, I'd
-  like to focus on specific, out of the ordinary, stories that evoke common
-  emotions and themes shared by the human race ranging from loss and
-  abandonment, inadequacies of self, addictions, etc... But also on the human
-  will to persevere despite any time constraint, the warrior we all possess but
-  never encounter until fear of death is present, and lastly, how rewarding the
-  glorious sensation of triumph feels when seemingly unattainable. I'll take my
-  time with sharing my stories as I'm still in the midst of my battle. But I
-  promise I'll come out tbe other side and am more than willing to help any
-  other soil in pain.
-datePublished: '2016-06-16T06:06:14.202Z'
-dateModified: '2016-06-16T06:05:25.357Z'
+  experience that turned into a culmination of events I now refer to as "the
+  perfect storm." Rather than a monotonous, congruent timeline of events, I'd
+  like to focus on specific, out of the ordinary, stories and fallacies that
+  evoke common emotions and themes shared by all humans; ranging from loss and
+  abandonment, inadequacies of self, addictions, etc... But also the human will
+  to persevere despite any roadblock, where you will meet a close ally, your
+  warrior spirit, and the tho of you will have tea and discuss politics. But no,
+  your warrior exists and makes an appearance when we have no alternatives.
+  lastly, Im excited to share how rewarding the glorious sensation of triumph
+  feels on any level when your task is seemingly unattainable. 
+datePublished: '2016-06-16T06:30:52.995Z'
+dateModified: '2016-06-16T06:30:38.328Z'
 title: WanderLost
 author:
   - name: Brad Miller
@@ -41,6 +33,9 @@ url: wanderlost/index.html
 _type: Article
 
 ---
+The familiar path under foot sent shocks from toes, up through limbs and spine and burst like fireworks throughout my skull and neck; only to repeat the proccess, downward throughout the electrical nervous system until the next step; and the process repeated itself while the unexcpected news took form as a possible reality. Old familiar feeling of loss, jealousy, abandonment, lonlyness, fear, depression, shame, and anger would arrive simultaneously and hurt every inch of my being, without remorse or abandon. This stage which I had been familiar with before, doesn't allow any sanctuary from what can only be described as pure panic.
 ![Initial step (backward)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57a3c7d8-edf5-4c2b-85bb-80e851a1a846.jpg)
 
-The familiar path under foot sent shocks from the toes, up through the limbs and spine and burst like fireworks throughout the skull and neck; only to repeat the proccess, downward throughout the electrical nervous system until the next step taken; a process repeated while the unexcpected news took hold as a possible reality. Old familiar feeling of loss, jealousy, abandonment, lonlyness, fear, depression, shame, and anger would arrive simultaneously and hurt without remorse or allow for any sanctuary from what can only be described as pure panic. When my now ex-wife asked what's wrong, I calmy said"Oh, I'ts just some anxiety right now, it will pass.". That anxiety and emotional torture persisted for months apon months straight and has only just recently subsided, 7 months after the fact. I'd like to write about this experience that turned out being a culmination of events I now refer to as "the perfect storm." rather that giving a congruent timeline of events, I'd like to focus on specific, out of the ordinary, stories that evoke common emotions and themes shared by the human race ranging from loss and abandonment, inadequacies of self, addictions, etc... But also on the human will to persevere despite any time constraint, the warrior we all possess but never encounter until fear of death is present, and lastly, how rewarding the glorious sensation of triumph feels when seemingly unattainable. I'll take my time with sharing my stories as I'm still in the midst of my battle. But I promise I'll come out tbe other side and am more than willing to help any other soil in pain.
+When my, now, ex-wife asked what was wrong, I calmy said, "Oh, I'ts just some anxiety right now, it should pass." That anxiety and emotional torture persisted for months apon months, Fairly consistently, and has only just recently subsided, 7 months after the fact. I'd like to write about this experience that turned into a culmination of events I now refer to as "the perfect storm." Rather than a monotonous, congruent timeline of events, I'd like to focus on specific, out of the ordinary, stories and fallacies that evoke common emotions and themes shared by all humans; ranging from loss and abandonment, inadequacies of self, addictions, etc... But also the human will to persevere despite any roadblock, where you will meet a close ally, your warrior spirit, and the tho of you will have tea and discuss politics. But no, your warrior exists and makes an appearance when we have no alternatives. lastly, Im excited to share how rewarding the glorious sensation of triumph feels on any level when your task is seemingly unattainable. 
+
+I'll take my time with sharing stories as I'm still in the midst of my own battle. But I promise, I'll come out tbe other side, stronger and more than willing to help any other souls in pain since I know exactly how hard it can be. I'm not going to bullshit you and say, "stay positive"... Just stay alive and fight one battle at a time.
