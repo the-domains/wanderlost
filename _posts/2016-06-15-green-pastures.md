@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://500px.com/photo/154032635'
 inLanguage: null
 keywords: []
 description: ' When my, now, ex-wife asked what was wrong, I calmy said, "Oh, I''ts just some anxiety right now, it should pass." That anxiety and emotional torture persisted for months apon months, Fairly consistently, and has only just recently subsided, 7 months after the fact. I''d like to write about this experience that turned into a culmination of events I now refer to as "the perfect storm." Rather than a monotonous, congruent timeline of events, I''d like to focus on specific, out of the ordinary, stories and fallacies that evoke common emotions and themes shared by all humans; ranging from loss and abandonment, inadequacies of self, addictions, etc... But also the human will to persevere despite any roadblock, where you will meet a close ally, your warrior spirit, and the tho of you will have tea and discuss politics. But no, your warrior exists and makes an appearance when we have no alternatives. lastly, Im excited to share how rewarding the glorious sensation of triumph feels on any level when your task is seemingly unattainable. '
-datePublished: '2016-06-16T08:00:27.204Z'
-dateModified: '2016-06-16T08:00:22.465Z'
+datePublished: '2016-06-16T08:05:28.921Z'
+dateModified: '2016-06-16T08:05:17.607Z'
 title: ''
 author:
   - name: ''
@@ -15,7 +15,7 @@ author:
 sourcePath: _posts/2016-06-15-green-pastures.md
 authors: []
 publisher: null
-starred: false
+starred: true
 _type: MediaObject
 
 ---
