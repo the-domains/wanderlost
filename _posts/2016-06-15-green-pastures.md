@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://500px.com/photo/154032635'
 inLanguage: null
 keywords: []
 description: ' The familiar path under foot in the Sonoma hillside sent shocks from my toes, up through limbs and spine and burst like fireworks throughout my skull and neck; only to repeat the downward electrical proccess throughout my nervous system until my next step; Repeating the process again. '
-datePublished: '2016-06-16T10:56:35.027Z'
-dateModified: '2016-06-16T10:56:33.898Z'
+datePublished: '2016-06-16T10:57:57.189Z'
+dateModified: '2016-06-16T10:57:36.085Z'
 title: 'Solvolgant by Nature : Surviving fromNature'
 author:
   - name: ''
@@ -15,8 +16,7 @@ sourcePath: _posts/2016-06-15-green-pastures.md
 authors: []
 publisher: null
 starred: true
-url: wanderlost/index.html
-_type: Article
+_type: MediaObject
 
 ---
 The familiar path under foot in the Sonoma hillside sent shocks from my toes, up through limbs and spine and burst like fireworks throughout my skull and neck; only to repeat the downward electrical proccess throughout my nervous system until my next step; Repeating the process again. 
