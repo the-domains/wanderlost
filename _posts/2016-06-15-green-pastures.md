@@ -14,8 +14,8 @@ description: >-
   physically as well as emotionally. When my now ex-wife asked what's wrong, it
   could only be explained as, "Oh, I'm just feeling some anxiety right now, no
   big deal."
-datePublished: '2016-06-16T00:42:28.382Z'
-dateModified: '2016-06-16T00:42:26.634Z'
+datePublished: '2016-06-16T00:43:35.940Z'
+dateModified: '2016-06-16T00:43:35.391Z'
 title: Initial Step
 author:
   - name: Brad Miller
