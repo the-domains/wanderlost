@@ -14,11 +14,11 @@ description: >-
   physically as well as emotionally. When my now ex-wife asked what's wrong, it
   could only be explained as, "Oh, I'm just feeling some anxiety right now, no
   big deal."
-datePublished: '2016-06-16T01:30:42.530Z'
-dateModified: '2016-06-16T01:30:41.233Z'
+datePublished: '2016-06-16T01:30:57.210Z'
+dateModified: '2016-06-16T01:30:50.654Z'
 title: ''
 author:
-  - name: Brad Miller
+  - name: ''
     url: ''
 sourcePath: _posts/2016-06-15-green-pastures.md
 authors: []
