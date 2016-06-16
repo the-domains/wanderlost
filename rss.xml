@@ -4,7 +4,7 @@
         <description><![CDATA[Solvagant by Nature ]]></description>
         <link>https://thegrid.ai/wanderlost/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 02:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 02:58:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wanderlost/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tranquility]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/wanderlost/wanderlost/index.html</link>
             <guid isPermaLink="false">c785c59c-722f-489f-af35-7ad379742996</guid>
             <pubDate>Thu, 16 Jun 2016 02:45:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blissful Days]]></title>
+            <description><![CDATA[<article><h1>Blissful Days</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81dcb0a1-b789-46a3-bd6a-8f707fec6bb7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wanderlost/bliss/index.html</link>
+            <guid isPermaLink="false">657fb6be-59b2-4812-b4f6-0d73f0b387ed</guid>
+            <pubDate>Thu, 16 Jun 2016 02:58:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keep Wonder]]></title>
@@ -40,13 +47,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/41da496e-fb9a-49f2-bbb2-4e12ce223f3b.png</link>
             <guid isPermaLink="false">eec2252d-bc6f-4390-b8e0-b39d720dc3fa</guid>
             <pubDate>Thu, 16 Jun 2016 01:57:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Savior Blissful days]]></title>
-            <description><![CDATA[<article><h1>Savior Blissful days</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81dcb0a1-b789-46a3-bd6a-8f707fec6bb7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/wanderlost/bliss/index.html</link>
-            <guid isPermaLink="false">657fb6be-59b2-4812-b4f6-0d73f0b387ed</guid>
-            <pubDate>Wed, 15 Jun 2016 15:37:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
