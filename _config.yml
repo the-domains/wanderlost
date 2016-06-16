@@ -35,7 +35,7 @@ color:
     - '#ddc6a8'
     - '#ac6732'
   brandStrength: 0.9375
-  lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  lightness: 0.375
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
