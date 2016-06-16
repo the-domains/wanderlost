@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' The familiar path under foot sent shocks from toes, up through limbs and spine and burst like fireworks throughout my skull and neck; only to repeat the proccess, downward throughout the electrical nervous system until the next step; and the process repeated itself while the unexcpected news took form as a possible reality. Old familiar feeling of loss, jealousy, abandonment, lonlyness, fear, depression, shame, and anger would arrive simultaneously and hurt every inch of my being, without remorse or abandon. This stage which I had been familiar with before, doesn''t allow any sanctuary from what can only be described as pure panic.'
-datePublished: '2016-06-16T06:40:29.669Z'
-dateModified: '2016-06-16T06:40:06.519Z'
+datePublished: '2016-06-16T07:03:44.509Z'
+dateModified: '2016-06-16T07:02:59.682Z'
 title: ''
 author:
   - name: Brad Miller
