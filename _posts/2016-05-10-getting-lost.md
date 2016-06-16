@@ -9,8 +9,8 @@ description: >-
   I have found that when you are deeply troubled, there are things you get from
   the silent devoted companionship of a dog that you can get from no other
   source.
-datePublished: '2016-06-16T02:46:24.446Z'
-dateModified: '2016-06-16T02:46:23.306Z'
+datePublished: '2016-06-16T02:47:58.581Z'
+dateModified: '2016-06-16T02:47:42.697Z'
 author:
   - name: ''
     url: ''
