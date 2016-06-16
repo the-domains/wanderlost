@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://500px.com/photo/154032635'
 inLanguage: null
 keywords: []
 description: >-
@@ -14,8 +13,8 @@ description: >-
   physically as well as emotionally. When my now ex-wife asked what's wrong, it
   could only be explained as, "Oh, I'm just feeling some anxiety right now, no
   big deal."
-datePublished: '2016-06-16T01:36:24.666Z'
-dateModified: '2016-06-16T01:36:20.527Z'
+datePublished: '2016-06-16T02:45:51.025Z'
+dateModified: '2016-06-16T01:36:49.374Z'
 title: WanderLost
 author:
   - name: Brad Miller
@@ -24,7 +23,8 @@ sourcePath: _posts/2016-06-15-green-pastures.md
 authors: []
 publisher: null
 starred: true
-_type: MediaObject
+url: wanderlost/index.html
+_type: Article
 
 ---
 ![Initial step (backward)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57a3c7d8-edf5-4c2b-85bb-80e851a1a846.jpg)
