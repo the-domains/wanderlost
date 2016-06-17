@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Scene of the crime
-datePublished: '2016-06-17T07:04:27.816Z'
-dateModified: '2016-06-17T07:04:12.759Z'
+datePublished: '2016-06-17T07:06:09.560Z'
+dateModified: '2016-06-17T07:04:41.698Z'
 title: >-
   The familiar path under foot on the Sonoma hillside ignited shocks, which
   spread upwards into my limbs and spine, tickling my exposed, sweaty skin until
