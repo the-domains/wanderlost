@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://500px.com/photo/154032635'
 inLanguage: null
 keywords: []
 description: ' The familiar path under foot in the Sonoma hillside sent shocks from my toes, up through limbs and spine and burst like fireworks throughout my skull and neck; only to repeat the downward electrical proccess throughout my nervous system until my next step; Repeating the process again. '
-datePublished: '2016-06-16T10:58:43.983Z'
-dateModified: '2016-06-16T10:58:27.049Z'
-title: 'Solvolgant by Nature : Surviving fromNature'
+datePublished: '2016-06-17T02:48:05.914Z'
+dateModified: '2016-06-17T02:48:02.667Z'
+title: 'Solvignant in Nature '
 author:
   - name: ''
     url: ''
