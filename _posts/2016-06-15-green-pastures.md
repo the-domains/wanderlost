@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-17T04:12:08.646Z'
-dateModified: '2016-06-17T04:07:51.332Z'
+datePublished: '2016-06-17T04:12:40.944Z'
+dateModified: '2016-06-17T04:12:25.826Z'
 title: ''
 author:
   - name: ''
@@ -27,6 +27,4 @@ The news seemed to come from nowhere and still has me puzzled today; though I wa
 
 I'd like to write about this experience that turned into a culmination of events I now refer to as "the perfect storm." Rather than a monotonous, congruent timeline of events, I'd like to focus on specific, out of the ordinary, stories and fallacies that evoke common emotions and themes shared by all humans; ranging from loss and abandonment, inadequacies of self, addictions, etc... But also the human will to persevere despite any roadblock, where you will meet a close ally, your warrior spirit, and the tho of you will have tea and discuss politics. But no, your warrior exists and makes an appearance when we have no alternatives. lastly, Im excited to share how rewarding the glorious sensation of triumph feels on any level when your task is seemingly unattainable. 
 
-The stories are still unfolding as I'm still in the midst of battle but My thought is it will be therapudic. If enjoyable, there are many other experiences that are both entertaining as well as frightening. So, I promise, I'll make it out Of this, stronger and openly willing to help any other souls in pain since I know exactly how hard suffering can be. I'm not going to bullshit you and say, "stay positive"... Or "keep your head up". Just stay alive and fight one battle at a time, one day at a time. 
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd26e5e4-93e3-4d0f-8d23-4c25f7cb15e1.jpg)
+The stories are still unfolding as I'm still in the midst of battle but My thought is it will be therapudic. If enjoyable, there are many other experiences that are both entertaining as well as frightening. So, I promise, I'll make it out Of this, stronger and openly willing to help any other souls in pain since I know exactly how hard suffering can be. I'm not going to bullshit you and say, "stay positive"... Or "keep your head up". Just stay alive and fight one battle at a time, one day at a time. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd26e5e4-93e3-4d0f-8d23-4c25f7cb15e1.jpg)
