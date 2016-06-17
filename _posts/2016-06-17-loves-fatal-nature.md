@@ -12,8 +12,8 @@ description: >-
   system; up until my next forward. An unpleasant sensation that makes you want
   to sprint until all energy and nerves are exerted but I was paralyzed,
   formulating horrific images and questions to subdue those thoughts.
-datePublished: '2016-06-17T07:22:02.607Z'
-dateModified: '2016-06-17T07:20:52.122Z'
+datePublished: '2016-06-17T07:24:06.102Z'
+dateModified: '2016-06-17T07:22:14.821Z'
 title: Loves Fatal Nature
 author:
   - name: ''
