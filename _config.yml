@@ -1,7 +1,7 @@
 name: 'Wanderlost '
 favicon: null
 layout_spectrum: 0.55882
-typography_spectrum: 0.07154
+typography_spectrum: 0.90409
 collections:
   - index:
       path: /
