@@ -6,9 +6,9 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ' The familiar path under foot on the Sonoma hillside ignited shocks, which spread upwards into my limbs and spine, tickling my exposed, sweaty skin until finally bursting like firecrackers on the back of my skull and neck. The dispersed energy was aparant, giving momentary rest throughout my nervous system; up until my next forward. An unpleasant sensation that makes you want to sprint until all energy and nerves are exerted but I was paralyzed, formulating horrific images and questions to quell those thoughts The news seemed to come from nowhere and still has me puzzled today; though I was a lying, addict and narcissist at the time but who isn''t... Old familiar feelings of loss, jealousy, abandonment, lonlyness, fear, depression, shame, and anger would all arrive simultaneously hurting every inch of my being, without remorse or abandon. This stage of shock and loss was familiar to me, but once she left, and my habits became worse, I knew it was time to face the root causes of my unhappiness and behaviors. The pain hadn''t even truly commencing yet. When my, now, ex-wife asked what was wrong, I calmy said, "Oh, I''ts just some anxiety right now, it should pass." That anxiety and emotional torture persisted for months apon months, Fairly consistently, and has only just recently subsided, 7 months after the fact. '
-datePublished: '2016-06-17T04:33:51.816Z'
-dateModified: '2016-06-17T04:33:49.698Z'
-title: Scene of the crime
+datePublished: '2016-06-17T04:35:32.807Z'
+dateModified: '2016-06-17T04:35:29.888Z'
+title: ''
 author:
   - name: ''
     url: ''
