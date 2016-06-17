@@ -12,8 +12,8 @@ description: >-
   system; up until my next forward. An unpleasant sensation that makes you want
   to sprint until all energy and nerves are exerted but I was paralyzed,
   formulating horrific images and questions to quell those thoughts 
-datePublished: '2016-06-17T06:58:35.243Z'
-dateModified: '2016-06-17T06:58:25.546Z'
+datePublished: '2016-06-17T06:59:58.236Z'
+dateModified: '2016-06-17T06:59:00.941Z'
 title: The familiar path
 author:
   - name: ''
