@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ' I''d like to continuing this experience which initiated a culmination of events I now refer to as "the perfect storm." Rather than a monotonous, congruent timeline of events, I''d like to focus on specific, out of the ordinary, stories and fallacies that evoke common emotions and themes shared by all humans; ranging from loss and abandonment, inadequacies of self, addictions, etc... But also the human will to persevere despite any roadblock, where you will meet a close ally, your warrior spirit, and the tho of you will have tea and discuss politics. But no, your warrior exists and makes an appearance when we have no alternatives. lastly, Im excited to share how rewarding the glorious sensation of triumph feels on any level when your task is seemingly unattainable. '
-datePublished: '2016-06-17T04:42:50.142Z'
-dateModified: '2016-06-17T04:42:35.732Z'
+datePublished: '2016-06-17T04:44:43.975Z'
+dateModified: '2016-06-17T04:44:26.426Z'
 title: ''
 author:
   - name: ''
