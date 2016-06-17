@@ -13,8 +13,8 @@ description: >-
   system; up until my next forward. An unpleasant sensation that makes you want
   to sprint until all energy and nerves are exerted but I was paralyzed,
   formulating horrific images and questions to quell those thoughts 
-datePublished: '2016-06-17T05:38:40.261Z'
-dateModified: '2016-06-17T05:37:36.231Z'
+datePublished: '2016-06-17T05:38:52.429Z'
+dateModified: '2016-06-17T05:38:51.131Z'
 title: The familiar path
 author:
   - name: ''
@@ -22,7 +22,7 @@ author:
 sourcePath: _posts/2016-06-17-loves-fatal-nature.md
 authors: []
 publisher: null
-starred: false
+starred: true
 _type: Blurb
 
 ---
