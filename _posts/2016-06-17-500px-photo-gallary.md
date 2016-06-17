@@ -8,8 +8,8 @@ keywords: []
 description: >-
   Im an ultra beginner photographer but am excited to learn the craft and travel
   to exotic parts of the world as an excuse.
-datePublished: '2016-06-17T20:45:33.881Z'
-dateModified: '2016-06-17T20:44:15.488Z'
+datePublished: '2016-06-17T20:49:41.930Z'
+dateModified: '2016-06-17T20:45:48.926Z'
 title: 500px photo gallary
 author:
   - name: Brad Miller
