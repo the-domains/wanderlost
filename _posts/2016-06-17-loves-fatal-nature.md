@@ -23,8 +23,8 @@ description: >-
   all possess potential to invoke the dormant warrior spirit, capable of
   whatever we put our mind to. Mine Has only recently peeked out to say, " yo,
   you need me? or can I go back to bed..."
-datePublished: '2016-06-17T07:18:02.198Z'
-dateModified: '2016-06-17T07:17:56.444Z'
+datePublished: '2016-06-17T07:19:08.787Z'
+dateModified: '2016-06-17T07:18:33.140Z'
 title: Loves Fatal Nature
 author:
   - name: ''
@@ -32,7 +32,7 @@ author:
 sourcePath: _posts/2016-06-17-loves-fatal-nature.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: the-familiar-path/index.html
 _type: Article
 
