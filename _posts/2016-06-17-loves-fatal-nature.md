@@ -42,9 +42,16 @@ description: >-
   all possess potential to invoke the dormant warrior spirit, capable of
   whatever we put our mind to. Mine Has only recently peeked out to say, " yo,
   you need me? or can I go back to bed..."
-datePublished: '2016-06-17T07:30:55.801Z'
-dateModified: '2016-06-17T07:29:36.233Z'
-title: Loves Fatal Nature
+datePublished: '2016-06-17T07:32:24.325Z'
+dateModified: '2016-06-17T07:32:23.522Z'
+title: >-
+  The familiar path under foot on the Sonoma hillside ignited shocks, which
+  spread upwards into my limbs and spine, tickling my exposed, sweaty skin until
+  finally bursting like firecrackers on the back of my skull and neck. The
+  dispersed energy was aparant, giving momentary rest throughout my nervous
+  system; up until my next forward. An unpleasant sensation that makes you want
+  to sprint until all energy and nerves are exerted but I was paralyzed,
+  formulating horrific images and questions to subdue those thoughts.
 author:
   - name: ''
     url: ''
@@ -55,4 +62,4 @@ starred: true
 _type: MediaObject
 
 ---
-![The familiar path under foot on the Sonoma hillside ignited shocks, which spread upwards into my limbs and spine, tickling my exposed, sweaty skin until finally bursting like firecrackers on the back of my skull and neck. The dispersed energy was aparant, giving momentary rest throughout my nervous system; up until my next forward. An unpleasant sensation that makes you want to sprint until all energy and nerves are exerted but I was paralyzed, formulating horrific images and questions to subdue those thoughts.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19c60d79-7150-4049-8add-427d23bbcd94.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19c60d79-7150-4049-8add-427d23bbcd94.jpg)
