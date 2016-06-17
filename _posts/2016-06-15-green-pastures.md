@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://500px.com/photo/154032635'
 inLanguage: null
 keywords: []
 description: ' The familiar path under foot in the Sonoma hillside sent shocks from my toes, up through limbs and spine and burst like fireworks throughout my skull and neck; only to repeat the downward electrical proccess throughout my nervous system until my next step; Repeating the process again. '
-datePublished: '2016-06-17T03:35:35.136Z'
-dateModified: '2016-06-17T03:35:18.520Z'
+datePublished: '2016-06-17T03:36:06.940Z'
+dateModified: '2016-06-17T03:35:57.986Z'
 title: ''
 author:
   - name: ''
@@ -15,8 +16,7 @@ sourcePath: _posts/2016-06-15-green-pastures.md
 authors: []
 publisher: null
 starred: true
-url: paralized-in-nature/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/030b4718-605e-4a69-8438-147c2b2191f7.jpg)
