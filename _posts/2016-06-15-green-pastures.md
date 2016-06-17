@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://500px.com/photo/154032635'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-17T03:54:47.551Z'
-dateModified: '2016-06-17T03:54:27.582Z'
+datePublished: '2016-06-17T04:12:08.646Z'
+dateModified: '2016-06-17T04:07:51.332Z'
 title: ''
 author:
   - name: ''
@@ -15,8 +14,9 @@ author:
 sourcePath: _posts/2016-06-15-green-pastures.md
 authors: []
 publisher: null
-starred: false
-_type: MediaObject
+starred: true
+url: paralized-in-nature/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/030b4718-605e-4a69-8438-147c2b2191f7.jpg)
@@ -27,4 +27,6 @@ The news seemed to come from nowhere and still has me puzzled today; though I wa
 
 I'd like to write about this experience that turned into a culmination of events I now refer to as "the perfect storm." Rather than a monotonous, congruent timeline of events, I'd like to focus on specific, out of the ordinary, stories and fallacies that evoke common emotions and themes shared by all humans; ranging from loss and abandonment, inadequacies of self, addictions, etc... But also the human will to persevere despite any roadblock, where you will meet a close ally, your warrior spirit, and the tho of you will have tea and discuss politics. But no, your warrior exists and makes an appearance when we have no alternatives. lastly, Im excited to share how rewarding the glorious sensation of triumph feels on any level when your task is seemingly unattainable. 
 
-The stories are still unfolding as I'm still in the midst of battle but My thought is it will be therapudic. If enjoyable, there are many other experiences that are both entertaining as well as frightening. So, I promise, I'll make it out Of this, stronger and openly willing to help any other souls in pain since I know exactly how hard suffering can be. I'm not going to bullshit you and say, "stay positive"... Or "keep your head up". Just stay alive and fight one battle at a time, one day at a time.
+The stories are still unfolding as I'm still in the midst of battle but My thought is it will be therapudic. If enjoyable, there are many other experiences that are both entertaining as well as frightening. So, I promise, I'll make it out Of this, stronger and openly willing to help any other souls in pain since I know exactly how hard suffering can be. I'm not going to bullshit you and say, "stay positive"... Or "keep your head up". Just stay alive and fight one battle at a time, one day at a time. 
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd26e5e4-93e3-4d0f-8d23-4c25f7cb15e1.jpg)
