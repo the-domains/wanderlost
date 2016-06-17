@@ -12,8 +12,8 @@ description: >-
   system; up until my next forward. An unpleasant sensation that makes you want
   to sprint until all energy and nerves are exerted but I was paralyzed,
   formulating horrific images and questions to quell those thoughts 
-datePublished: '2016-06-17T06:26:28.435Z'
-dateModified: '2016-06-17T06:25:03.476Z'
+datePublished: '2016-06-17T06:58:35.243Z'
+dateModified: '2016-06-17T06:58:25.546Z'
 title: The familiar path
 author:
   - name: ''
@@ -28,4 +28,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19c60d79-7150-4049-8add-427d23bbcd94.jpg)
 
-* This moment initiated a series of events, filled with follies and bad decisions that would humble the almightiest of kings. I now refer to it as "the perfect storm." As a form of therapy, I'll fight my apprehension for writing, and share some stories and memories that will amuse as well as frighten anyone unaccustomed to walking the razors edge. Yet, ultimately I hope it will enlighten, since it's a universal theme of struggle and redemption. Rather than spew a monotonous, congruent timeline of events, I'll focus on specific, out of the ordinary events, as well as insight to the dilusions of a man on the brink of madness. Yes, just typical, common themes of loss, abandonment, inadequacies of self, addictions, delusional paranoia, etc... But also the human will to persevere despite any seemingly insurmountable roadblock, invoking the dormant warrior spirit we all possess and the tho of you will have tea and discuss politics. But no, your warrior exists and makes an appearance when we have no alternatives. lastly, Im excited to share how rewarding the glorious sensation of triumph feels on any level when your task is seemingly unattainable.
+* This was the moment that initiated a series of events, where countless bad decisions turned what could have been a normal, painful divorce, into a fight for sanity and survival. I now refer to this period as "the perfect storm", since life caught up with me in all aspects at once. As a form of therapy, I'll fight my fear and apprehension to write, and share some stories and memories that will amuse as well as frighten the average reader. Ultimately, I hope to entertain and enlighten with universal themes of struggle and redemption. Rather than spew a monotonous, congruent timeline of events, I'll focus on specific, out of the ordinary events, as well as provide insight to the dilusions of man on the brink of madness. Yes, just typical, common run of the line themes of loss, abandonment, inadequacies of self, addictions, delusional paranoia, etc... There are a lot of humans in more pain than they would ever reveal, so I have no problems or shame in recounting experiences if it they can help another person in similar situations. The human will to persevere despite seemingly insurmountable roadblocks, is a powerful thing. We all possess potential to invoke the dormant warrior spirit, capable of whatever we put our mind to. Mine Has only recently peeked out to say, " yo, you need me? or can I go back to bed..."
