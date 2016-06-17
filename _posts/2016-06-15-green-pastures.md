@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://500px.com/photo/154032635'
 inLanguage: null
 keywords: []
-description: ' The familiar path under foot on the Sonoma hillside ignited shocks, which spread upwards into my limbs and spine, tickling my exposed, sweaty skin until finally bursting like firecrackers on the back of my skull and neck. The dispersed energy was aparant, giving momentary rest throughout my nervous system; up until my next forward. An unpleasant sensation that makes you want to sprint until all energy and nerves are exerted but I was paralyzed, formulating horrific images and questions to quell those thoughts'
-datePublished: '2016-06-17T03:52:11.638Z'
-dateModified: '2016-06-17T03:51:43.394Z'
+description: ''
+datePublished: '2016-06-17T03:54:47.551Z'
+dateModified: '2016-06-17T03:54:27.582Z'
 title: ''
 author:
   - name: ''
@@ -15,13 +15,13 @@ author:
 sourcePath: _posts/2016-06-15-green-pastures.md
 authors: []
 publisher: null
-starred: true
+starred: false
 _type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/030b4718-605e-4a69-8438-147c2b2191f7.jpg)
 
-The familiar path under foot on the Sonoma hillside ignited shocks, which spread upwards into my limbs and spine, tickling my exposed, sweaty skin until finally bursting like firecrackers on the back of my skull and neck. The dispersed energy was aparant, giving momentary rest throughout my nervous system; up until my next forward. An unpleasant sensation that makes you want to sprint until all energy and nerves are exerted but I was paralyzed, formulating horrific images and questions to quell those thoughts
+The familiar path under foot on the Sonoma hillside ignited shocks, which spread upwards into my limbs and spine, tickling my exposed, sweaty skin until finally bursting like firecrackers on the back of my skull and neck.  The dispersed energy was aparant,  giving momentary rest throughout my nervous system; up until my next forward.  An unpleasant sensation that makes you want to sprint until all energy and nerves are exerted but I was paralyzed, formulating horrific images and questions to quell those thoughts
 
 The news seemed to come from nowhere and still has me puzzled today; though I was a lying, addict and narcissist at the time but who isn't...  Old familiar feelings of loss, jealousy, abandonment, lonlyness, fear, depression, shame, and anger would all arrive simultaneously hurting every inch of my being, without remorse or abandon. This stage of shock and loss was familiar to me, but once she left, and my habits became worse, I knew it was time to face the root causes of my unhappiness and behaviors.  The pain hadn't even truly commencing yet.  When my, now, ex-wife asked what was wrong, I calmy said, "Oh, I'ts just some anxiety right now, it should pass." That anxiety and emotional torture persisted for months apon months, Fairly consistently, and has only just recently subsided, 7 months after the fact.
 
