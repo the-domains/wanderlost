@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' The familiar path under foot in the Sonoma hillside sent shocks from my toes, up through limbs and spine and burst like fireworks throughout my skull and neck; only to repeat the downward electrical proccess throughout my nervous system until my next step; Repeating the process again. '
-datePublished: '2016-06-17T03:29:14.883Z'
-dateModified: '2016-06-17T03:28:51.768Z'
+datePublished: '2016-06-17T03:30:30.515Z'
+dateModified: '2016-06-17T03:29:29.597Z'
 title: ''
 author:
   - name: ''
@@ -27,4 +27,4 @@ The news seemed to come from nowhere which still has me puzzled to this day, tho
 
 When my, now, ex-wife asked what was wrong, I calmy said, "Oh, I'ts just some anxiety right now, it should pass." That anxiety and emotional torture persisted for months apon months, Fairly consistently, and has only just recently subsided, 7 months after the fact. I'd like to write about this experience that turned into a culmination of events I now refer to as "the perfect storm." Rather than a monotonous, congruent timeline of events, I'd like to focus on specific, out of the ordinary, stories and fallacies that evoke common emotions and themes shared by all humans; ranging from loss and abandonment, inadequacies of self, addictions, etc... But also the human will to persevere despite any roadblock, where you will meet a close ally, your warrior spirit, and the tho of you will have tea and discuss politics. But no, your warrior exists and makes an appearance when we have no alternatives. lastly, Im excited to share how rewarding the glorious sensation of triumph feels on any level when your task is seemingly unattainable. 
 
-The stories are still unfolding as I'm still in the midst of battle but My thought is it will be therapudic. If enjoyable, there are many other experiences that are both entertaining as well as frightening. So, I promise, I'll make it out Of this, stronger and openly willing to help any other souls in pain since I know exactly how hard suffering can be. I'm not going to bullshit you and say, "stay positive"... Just stay alive and fight one battle at a time, one day at a time.!!
+The stories are still unfolding as I'm still in the midst of battle but My thought is it will be therapudic. If enjoyable, there are many other experiences that are both entertaining as well as frightening. So, I promise, I'll make it out Of this, stronger and openly willing to help any other souls in pain since I know exactly how hard suffering can be. I'm not going to bullshit you and say, "stay positive"... Or "keep your head up". Just stay alive and fight one battle at a time, one day at a time.
