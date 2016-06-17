@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://500px.com/photo/154032635'
 inLanguage: null
 keywords: []
-description: ' The familiar path under foot in the Sonoma hillside sent shocks from my toes, up through limbs and spine and burst like fireworks throughout my skull and neck; only to repeat the downward electrical proccess throughout my nervous system until my next step; Repeating the process again. '
-datePublished: '2016-06-17T02:48:05.914Z'
-dateModified: '2016-06-17T02:48:02.667Z'
+description: ' The familiar path under foot on the Sonoma hillside ignited shocks, which spread upwards into my limbs and spine, tickling my exposed, sweaty skin until finally bursting like firecrackers on the back of my skull and neck. The dispersed energy was aparant, giving momentary rest throughout my nervous system; up until my next forward. An unpleasant sensation that makes you want to sprint until all energy and nerves are exerted but I was paralyzed, formulating horrific images and questions to quell those thoughts'
+datePublished: '2016-06-17T03:14:10.515Z'
+dateModified: '2016-06-17T03:12:46.145Z'
 title: 'Solvignant in Nature '
 author:
   - name: ''
@@ -19,7 +19,9 @@ starred: true
 _type: MediaObject
 
 ---
-The familiar path under foot in the Sonoma hillside sent shocks from my toes, up through limbs and spine and burst like fireworks throughout my skull and neck; only to repeat the downward electrical proccess throughout my nervous system until my next step; Repeating the process again. 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/030b4718-605e-4a69-8438-147c2b2191f7.jpg)
+
+The familiar path under foot on the Sonoma hillside ignited shocks, which spread upwards into my limbs and spine, tickling my exposed, sweaty skin until finally bursting like firecrackers on the back of my skull and neck. The dispersed energy was aparant, giving momentary rest throughout my nervous system; up until my next forward. An unpleasant sensation that makes you want to sprint until all energy and nerves are exerted but I was paralyzed, formulating horrific images and questions to quell those thoughts
 
 The news seemed to come from nowhere which still has me puzzled to this day, though i was a lying addict at the time, as was she. Old familiar feelings of loss, jealousy, abandonment, lonlyness, fear, depression, shame, and anger would arrive simultaneously and hurt every inch of my being without remorse or abandon. This stage in shock of loss I had been familiar with before, yet didnt allow sanctuarY from the pure panic Well I was only commencing.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/939e3340-e847-41c2-8023-01b266593ff3.jpg)
