@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' The familiar path under foot in the Sonoma hillside sent shocks from my toes, up through limbs and spine and burst like fireworks throughout my skull and neck; only to repeat the downward electrical proccess throughout my nervous system until my next step; Repeating the process again. '
-datePublished: '2016-06-17T03:30:30.515Z'
-dateModified: '2016-06-17T03:29:29.597Z'
+datePublished: '2016-06-17T03:35:35.136Z'
+dateModified: '2016-06-17T03:35:18.520Z'
 title: ''
 author:
   - name: ''
