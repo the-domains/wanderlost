@@ -31,8 +31,8 @@ description: >-
   system; up until my next forward. An unpleasant sensation that makes you want
   to sprint until all energy and nerves are exerted but I was paralyzed,
   formulating horrific images and questions to subdue those thoughts.
-datePublished: '2016-06-17T07:42:01.464Z'
-dateModified: '2016-06-17T07:41:51.479Z'
+datePublished: '2016-06-17T07:43:39.130Z'
+dateModified: '2016-06-17T07:42:13.190Z'
 title: Loves Fatal Nature
 author:
   - name: Brad Miller
