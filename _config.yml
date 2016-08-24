@@ -13,9 +13,9 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.1792115
+  saturation: 0.4605735
   brandStrength: 1
-  lightness: 0.8369176
+  lightness: 0.5053763
   brandColors:
     - '#000000'
     - '#f0efed'
@@ -27,12 +27,12 @@ cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: 'Wanderlost '
-favicon: null
 opengraph:
   image: null
   type: null
