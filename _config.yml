@@ -13,7 +13,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.8548387
+  saturation: 0.09318996
   brandStrength: 1
   lightness: 0.2240143
   brandColors:
@@ -23,16 +23,16 @@ color:
     - '#434C54'
     - '#682828'
   rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: 'Wanderlost '
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: 'Wanderlost '
 opengraph:
   image: null
   type: null
