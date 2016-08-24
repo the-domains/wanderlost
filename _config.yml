@@ -17,22 +17,22 @@ color:
   brandStrength: 1
   lightness: 0.5053763
   brandColors:
-    - '#7C3817'
-    - '#687237'
-    - '#C98F39'
-    - '#007C7C'
-    - '#CAF2E5'
+    - '#65737E'
+    - '#9C3C3C'
+    - '#8B9198'
+    - '#434C54'
+    - '#682828'
   rhythmicContrast: 0.3620072
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: 'Wanderlost '
-favicon: null
 opengraph:
   image: null
   type: null
