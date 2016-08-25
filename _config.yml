@@ -6,33 +6,33 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.6684588
+  saturation: 0.4193548
   brandStrength: 1
-  lightness: 0.3225806
+  lightness: 0.1774193
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#04F4FD'
     - '#AAAAAA'
     - '#02A2A8'
-  rhythmicContrast: 0.2562724
+  rhythmicContrast: 0.6953405
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
 cta:
   bucket: null
   version: null
   domain: null
 name: 'Wanderlost '
-favicon: null
 opengraph:
   image: null
   type: null
