@@ -22,7 +22,7 @@ color:
     - '#04F4FD'
     - '#AAAAAA'
     - '#02A2A8'
-  rhythmicContrast: 0.005376344
+  rhythmicContrast: 0.2562724
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: 'Wanderlost '
 favicon: null
+name: 'Wanderlost '
 opengraph:
   image: null
   type: null
