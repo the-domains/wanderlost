@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0.453405
   brandStrength: 0.8853046
-  lightness: 0.2240143
+  lightness: 0.1290323
   brandColors:
     - '#7C3817'
     - '#687237'
@@ -27,12 +27,12 @@ cta:
   bucket: null
   version: null
   domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: 'Wanderlost '
+favicon: null
 opengraph:
   image: null
   type: null
